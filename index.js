@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 // Add your doToElementsInArray() function here:
 
 function doToElementsInArray(array, callback) {
